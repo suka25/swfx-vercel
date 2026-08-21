@@ -1,0 +1,16 @@
+{
+  "name": "SWFX — Suka Wedana Forex",
+  "short_name": "SWFX",
+  "description": "Real-time forex market intelligence and trading signals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080A0D",
+  "theme_color": "#39FF88",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

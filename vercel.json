@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm install --legacy-peer-deps && NEXT_SKIP_TYPE_CHECK=true npm run build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "regions": ["sin1"],
+  "env": {
+    "NEXT_SKIP_TYPE_CHECK": "true"
+  }
+}

@@ -1,0 +1,9 @@
+# SWFX — Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /maintenance/
+
+Sitemap: https://swfx.com/sitemap.xml
